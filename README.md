@@ -1,1 +1,1 @@
-Scientist working on magnetic resonance.
+Magnetic Resonance Scientist
