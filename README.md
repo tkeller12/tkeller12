@@ -1,1 +1,1 @@
-I'm a scientist working on magnetic resonance.
+Scientist working on magnetic resonance.
